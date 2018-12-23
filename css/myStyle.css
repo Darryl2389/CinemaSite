@@ -1,0 +1,38 @@
+.myBrand {
+    color: #007ace;
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.myContainer {
+    background-color: 001429;
+    color: ghostwhite;
+}
+
+.nav-link {
+    color: white;
+    font-family: roboto;
+    font-size: 16px;
+}
+.card-title{
+    color: white;
+    padding-top: 10px;
+}
+h3{
+    padding: 10px;
+    font-family: roboto;
+    font-size: 10px;
+}
+.list-unstyled{
+    text-decoration: none;
+}
+.text-uppercase{
+    color:aliceblue;
+}
+p{
+    color:aliceblue;
+}
+form{
+    padding:10px;
+}
+
